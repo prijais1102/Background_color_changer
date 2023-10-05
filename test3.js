@@ -1,0 +1,50 @@
+$(document).ready(function(){
+    $("#a").click(function(){
+        $("html").css("background-color","#FE657D");
+    });
+});
+$(document).ready(function(){
+    $("#b").click(function(){
+        $("html").css("background-color","#FCB2A9");
+    });
+});
+$(document).ready(function(){
+    $("#c").click(function(){
+        $("html").css("background-color","#E3E3DB");
+    });
+});
+$(document).ready(function(){
+    $("#d").click(function(){
+        $("html").css("background-color","#94E4C9");
+    });
+});
+$(document).ready(function(){
+    $("#e").click(function(){
+        $("html").css("background-color","#509B7D");
+    });
+});
+$(document).ready(function(){
+    $("#f").click(function(){
+        $("html").css("background-color","red");
+    });
+});
+$(document).ready(function(){
+    $("#g").click(function(){
+        $("html").css("background-color","blue");
+    });
+});
+$(document).ready(function(){
+    $("#h").click(function(){
+        $("html").css("background-color","purple");
+    });
+});
+$(document).ready(function(){
+    $("#i").click(function(){
+        $("html").css("background-color","yellow");
+    });
+});
+$(document).ready(function(){
+    $("#j").click(function(){
+        $("html").css("background-color","orange");
+    });
+});
